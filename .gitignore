@@ -1,0 +1,11 @@
+C:/Users/MohamedHmini/Anaconda3/Scripts/activate
+conda activate base
+/extractor/test.json
+/extractor/node_modules
+/detector/node_modules
+/.vscode
+/datasets/
+/extractor/test.png
+/features_extraction/sim_mat.csv
+/.nothing
+/test.py
