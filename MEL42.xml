@@ -1,0 +1,1162 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>David Ling</Author>
+  <LastAuthor>Sunil Seneviratne</LastAuthor>
+  <Created>2015-06-05T18:17:20Z</Created>
+  <LastSaved>2024-06-07T10:41:11Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11085</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s26" ss:Name="Good">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m1845613627920">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613627940">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613627960">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613627980">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613628000">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613628020">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613625008">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613625028">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613625048">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613625068">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613625088">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613625108">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613623552">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613623572">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m1845613623592">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613623612">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613623632">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m1845613623652" ss:Parent="s26">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="16" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+  </Style>
+  <Style ss:ID="s85">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s86">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+  </Style>
+  <Style ss:ID="s87">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s88">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#9BC2E6" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s90">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#F2F2F2" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#F2F2F2" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s96" ss:Parent="s26">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9"/>
+   <Interior ss:Color="#F2F2F2" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s97">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000"/>
+   <Interior ss:Color="#F2F2F2" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s98">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s99" ss:Parent="s26">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s100">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s101">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+  </Style>
+  <Style ss:ID="s111">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s112">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s113">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s114" ss:Parent="s26">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s122">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s123" ss:Parent="s26">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Bold="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s124">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s125">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s126">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s127">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s128">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s129">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s130">
+   <Alignment ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s131" ss:Parent="s26">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9"/>
+   <Interior ss:Color="#F2F2F2" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s132" ss:Parent="s26">
+   <Alignment ss:Vertical="Top"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s133" ss:Parent="s26">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s134">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s135">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s136">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s137">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s138">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FF0000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="ProjMarksheetT1-2024-v1">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="98" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="177.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="72"/>
+   <Column ss:AutoFitWidth="0" ss:Width="266.25" ss:Span="4"/>
+   <Row ss:AutoFitHeight="0" ss:Height="21.75">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">COIT20246 2023 T3 Project</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Group</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MEL42</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Marker</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1845613623552"><Data ss:Type="String">Sunil Seneviratne</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Repository URL</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1845613623572"><Data ss:Type="String">https://github.com/cquict/coit20246y24t1-project-mel-priyanka-prem</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Student 1 (ID &amp; Name)</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1845613623592"><Data ss:Type="String">12255873; Prem Gaurangkumar PATEL</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Student 2</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1845613623612"><Data ss:Type="String">12267145; Priyanka NARSAREDDYNOOR</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Student 3</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m1845613623632"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Project Draft Score</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Sub-total</Data></Cell>
+    <Cell ss:StyleID="s86" ss:Formula="=R[13]C+R[18]C+R[24]C+R[30]C+R[36]C"><Data
+      ss:Type="Number">7.25</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Days late</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Late penalty (5%, 0.6 marks per day)</Data></Cell>
+    <Cell ss:StyleID="s86" ss:Formula="=0.6*R[-1]C"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Total</Data></Cell>
+    <Cell ss:StyleID="s86" ss:Formula="=MAX(R[-3]C-R[-1]C,0)"><Data
+      ss:Type="Number">7.25</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">out of 12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s84"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Project Final Score</Data></Cell>
+    <Cell ss:StyleID="s86"/>
+    <Cell ss:StyleID="s84"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Sub-total</Data></Cell>
+    <Cell ss:StyleID="s86"
+     ss:Formula="=R[37]C+R[43]C+R[49]C+R[55]C+R[61]C+R[67]C+R[73]C+R[79]C"><Data
+      ss:Type="Number">5.5</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Days late</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Late penalty (5%, 0.9 marks per day)</Data></Cell>
+    <Cell ss:StyleID="s86" ss:Formula="=0.9*R[-1]C"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s84"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Total</Data></Cell>
+    <Cell ss:StyleID="s86" ss:Formula="=MAX(R[-3]C-R[-1]C,0)"><Data
+      ss:Type="Number">5.5</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">out of 18</Data></Cell>
+   </Row>
+   <Row ss:Index="21" ss:AutoFitHeight="0" ss:Height="19.5">
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Project Part 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Diagram and justification</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Good</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Good</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Satisfactory</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s92"
+     ss:Formula="=HLOOKUP(R[-1]C,R[-1]C[1]:RC[5],2,FALSE)"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="279.75" ss:StyleID="s93">
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:Index="3" ss:StyleID="s96"><Data ss:Type="String">DIAGRAMS:&#10;Excellent work. One or more clear and complete network diagrams (at least one logical network diagram) of the design of entire network (e.g. using diagrams.net); all suitable icons used with appropriate symbols/ labels (e.g. no arrowheads for connecting lines, clear connection point to Internet);  all clear and well organised;&#10;AND&#10;Appropriate use of sub-networks to separate different user categories. Correct use of only /24 or /16 or both address blocks. &#10;AND&#10;Adequate and clear justification for identified sub-networks.&#10;&#10;EXPLANATION:&#10;Explanation of key design decisions, (e.g., why you chose to design as you did).&#10;AND &#10;Includes justification for all sub-nets, devices and services used&#10;AND&#10;Provided clear, direct, focused, complete, well organised explanation. Not terse nor verbose.&#10;</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">DIAGRAMS:&#10;Good, not Excellent but better than Satisfactory. Generally clear and well organised. One or more network diagrams (at least one logical network diagram) of the design of entire network (e.g. using diagrams.net); &#10;AND &#10;appropriate number of sub-networks correctly identified;  &#10;BUT &#10;incomplete diagrams without serious errors; may have some missing components/connections, non-standard/unsuitable icons/symbols, missing/unclear labels; some weakness (e.g. has poor topology); &#10;OR&#10;incorrect use of only /24 or /16 or both address blocks;&#10;&#10;EXPLANATION:&#10;Good, not Excellent. Explanation mostly clear and focused, sufficient elaboration, with few omissions or errors;&#10;AND &#10;includes justification for all sub-nets, devices and services used.</Data></Cell>
+    <Cell ss:StyleID="s97"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">DIAGRAMS:&#10;Satisfactory but not sufficiently Good. Network diagrams provided but incomplete; some unsuitable, unclear, missing components, information, contain limited errors (e.g. PC to PC connection, wrong devices, wrong/unsuitable connections).&#10;AND &#10;adequate number of sub-networks correctly identified;  &#10;</Font><Font>BUT </Font><Font
+       html:Color="#000000">&#10;incorrect use of only /24 or /16 or both address blocks;&#10;&#10;EXPLANATION:&#10;Satisfactory but not sufficiently Good. Some unclear or unfocused explanation, inadequate elaboration, terse or verbose writing; some omissions or errors;&#10;AND &#10;includes justification for at most but not all of the sub-nets, devices and services used. &#10;&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">DIAGRAMS:&#10;Not passable; unusable or inadequate network diagram. Network diagrams provided but unclear, missing multiple key components, incomplete information. &#10;OR &#10;contain serious errors (missing or wrong components/connections); &#10;OR &#10;has inadequate number of sub-networks.&#10;&#10;EXPLANATION:&#10;Generally disorganised, unfocused, unclear, disjointed, incomplete, missing several key information or has many errors;  &#10;OR   &#10;has justification for only some of the sub-nets, devices and services used. </Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">DIAGRAMS:&#10;No network diagrams given OR not related to the project scenario OR many errors indicating not following the unit content.&#10;&#10;EXPLANATION:&#10;None given OR not related to the project scenario.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75" ss:StyleID="s93">
+    <Cell ss:Index="2" ss:StyleID="s98"><Data ss:Type="String">Note:</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">Source .drawio files (created in draw.io/diagrams.net) are required to achieve more than Weak.</Data></Cell>
+    <Cell ss:StyleID="s100"/>
+    <Cell ss:StyleID="s100"/>
+    <Cell ss:StyleID="s100"/>
+    <Cell ss:StyleID="s100"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45" ss:StyleID="s84">
+    <Cell ss:Index="2" ss:StyleID="s101"><Data ss:Type="String">Comments:</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1845613623652"><Data ss:Type="String">Although couple of diagrams were provided,  missing key information such as subnet address/mask details in all of them. Justification lacks details in device selection.</Data></Cell>
+    <Cell ss:StyleID="s111"/>
+    <Cell ss:StyleID="s111"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Wi-Fi</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Good</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Good</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s92"
+     ss:Formula="=HLOOKUP(R[-1]C,R[-1]C[1]:RC[4],2,FALSE)"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="108" ss:StyleID="s112">
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:Index="3" ss:StyleID="s96"><Data ss:Type="String">Excellent work. Important Wi-Fi design issues considered, including but not limited to: number of access points; channels/frequencies; standards;&#10;AND&#10;All Wi-Fi issues considered are specific and relevant to the scenario and network diagram(s);&#10;AND&#10;Clear and focused explanation, with specific values given.&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Not Excellent but better than Weak. Minor issues missed or wrong in Wi-Fi design, but mostly Good.&#10;AND&#10;All Wi-Fi issues considered are specific and relevant to the scenario and network diagram(s);&#10;AND&#10;Clear and focused explanation, with specific values given.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Weak. Several issues wrong or missing in Wi-Fi design;&#10;OR&#10;Multiple items presented are generic, and not referring to specific parts of the scenario or network diagram(s);&#10;OR&#10;Unclear or unfocused explanation.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Most of the design decisions are wrong, missing or too generic.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75" ss:StyleID="s112">
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">Note:</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">Specific values for common Wi-Fi parameters are required to achieve more than Poor</Data></Cell>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s101"><Data ss:Type="String">Comments:</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1845613625008"><Data ss:Type="String">How Wi-Fi coverage was achieved, what devices/how many of them were used etc.  was not described. No subnet address details were given. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Addressing</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Good</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s92"
+     ss:Formula="=HLOOKUP(R[-1]C,R[-1]C[1]:RC[4],2,FALSE)"><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="147.9375" ss:StyleID="s112">
+    <Cell ss:Index="3" ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Excellent work. Address allocations, e.g., table of IPv4 address ranges to be used, devices allocated; complete, consistent and clear.&#10;AND &#10;Correct use of <U>only</U><Font> /24 or /16 or both address blocks; unambiguous mask information provided;&#10;AND&#10;sufficient and complete for all connected devices correctly identified, with suitable spare address blocks in reserve;&#10;AND&#10;clear presentations of the information (e.g. table and/or headings)&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Not Excellent but better than Weak. Most address blocks correctly identified but with some errors or incomplete.&#10;AND &#10;Imperfect use of <U>only</U><Font> /24 or /16 or both address blocks; &#10;BUT&#10;have some ambiguous mask information provided;&#10;OR&#10;have some incorrect or incomplete connected devices identified, did not consider suitable spare address blocks in reserve;&#10;OR &#10;not a clear presentation of the information (e.g. table used but not clearly organised/categorised).</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Weak. Did not adequately identify required address blocks, contain many significant errors, not suitably organised or disjointed.&#10;OR &#10;Use of other than required /24 or /16 address blocks; &#10;OR &#10;inadequate/missing mask information;&#10;OR &#10;multiple key/representative devices without required address allocated; &#10;OR &#10;Table not used to present information.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">None given &#10;OR &#10;not related to the project scenario &#10;OR &#10;many mistakes demonstrating not following unit content.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s112">
+    <Cell ss:Index="2" ss:StyleID="s122"><Data ss:Type="String">Note:</Data></Cell>
+    <Cell ss:StyleID="s123"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>IP address must be within the appropriate ranged based on the student ID</B><Font> (and not private addresses, like 192.168.x.y)</Font><B> to achieve more than Weak.</B></ss:Data></Cell>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s101"><Data ss:Type="String">Comments:</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1845613625028"><Data ss:Type="String">Did not adequately identify required address blocks within the range based on last two digits of the student ID.  Student IDs are 12267145 and 12255873. Selected subnets are 71.45.x.x and 58.73.x.x.  No justification on using /24 mask on all subnets.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">List of equipment</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Poor</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Satisfactory</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s92"
+     ss:Formula="=HLOOKUP(R[-1]C,R[-1]C[1]:RC[3],2,FALSE)"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="100.5" ss:StyleID="s124">
+    <Cell ss:Index="3" ss:StyleID="s96"><Data ss:Type="String">Excellent work. Table of recommended hardware, e.g., recommended minimum specifications for equipment. Suitable and Complete key specifications (at least: Item type, manufacturer, model, no. of ports, speed, cost, quantity, where applicable - e.g. cables are generic);&#10;AND &#10;Information is presented clearly (e.g. table, list, headings) and with consistent units.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Not Excellent but better than Poor. Most required network hardware identified, but missing some or incomplete key specifications (e.g. Item type, manufacturer, model, no. of ports, speed, cost, quantity, etc.);&#10;OR &#10;information not presented clearly and/or inconsistent units.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">None given &#10;OR &#10;not related to the project scenario ;&#10;OR &#10;incomplete/missing multiple key equipment/specifications.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s124">
+    <Cell ss:Index="2" ss:StyleID="s125"><Data ss:Type="String">Note: </Data></Cell>
+    <Cell ss:StyleID="s123"><Data ss:Type="String">Links to websites that contains specifications or prices of the devices recommended are required to achieve more than Poor.</Data></Cell>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s101"><Data ss:Type="String">Comments:</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1845613625048"><Data ss:Type="String">See the Note above. Links to websites containing required details were not included. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Project plan</Data></Cell>
+    <Cell ss:StyleID="s126"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Satisfactory</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s92"
+     ss:Formula="=HLOOKUP(R[-1]C,R[-1]C[1]:RC[3],2,FALSE)"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="84" ss:StyleID="s124">
+    <Cell ss:Index="3" ss:StyleID="s96"><Data ss:Type="String">Group is formed, registered with GitHub repository created before deadline; posted specific communication plan and allocation of tasks&#10;AND&#10;Regular use of Git commits by all contributing members during project.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Group is formed, registered with GitHub repository created before deadline; some aspects of the communication plan or task list are missing or clearly wrong;&#10;AND&#10;Regular use of Git commits by all contributing members during project.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Group not formed, registered with GitHub repository created before deadline;  &#10;OR  &#10;missing or incomplete specific communication plan and allocation of tasks.&#10;OR&#10;Infrequent Git commits by all members of project.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s124">
+    <Cell ss:Index="2" ss:StyleID="s127"><Data ss:Type="String">Note:</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">Regular Git commits by all contributing members are required to achieve more than Poor.</Data></Cell>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s101"><Data ss:Type="String">Comments:</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1845613625068"><Data ss:Type="String">Most tasks were included in the plan.</Data></Cell>
+   </Row>
+   <Row ss:Index="51" ss:AutoFitHeight="0" ss:Height="19.5">
+    <Cell ss:StyleID="s128"><Data ss:Type="String">Project Part 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Pricing for cloud services</Data></Cell>
+    <Cell ss:StyleID="s126"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Good</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Satisfactory</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s92"
+     ss:Formula="=HLOOKUP(R[-1]C,R[-1]C[1]:RC[5],2,FALSE)"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="136.5" ss:StyleID="s112">
+    <Cell ss:Index="3" ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Appropriate services identified, selected and well justified in the context of the design. Presented annual prices from <U>two</U><Font> providers. Evidence is clear (e.g. name of CSP: Cloud Service Provider, service type, cost, quantity, etc.);  &#10;AND   &#10;the virtual machines and select specifications are well justified, e.g. why web server and backup server have different specifications.&#10;AND &#10;Information is presented clearly (e.g. table, list, headings) and export from cloud service provider is included.</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Not Excellent but better than Satisfactory. Correct services identified, selected and justified in the context of the design. Annual prices from <U>two</U><Font> providers. &#10;BUT &#10;Some incomplete information;&#10;OR &#10;unclear but mostly consistent basis for comparison.&#10;OR &#10;Some aspects of justifications are not clear or appropriate.</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Some incorrect services identified, weak or incomplete justification of services selected; some missing information, unclear annual prices from <U>one</U><Font> provider;&#10;OR &#10;some inconsistent basis for comparison; &#10;OR &#10;some of the specifications chosen not suitable for the scenario, e.g. VM sizes&#10;OR &#10;Information not presented clearly.</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Unclear or missing selection justification OR missing significant comparison information OR only one supplier identified.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">None given &#10;OR &#10;not related to the project scenario &#10;OR &#10;many poorly justified and inappropriate services/specifications.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s112">
+    <Cell ss:Index="2" ss:StyleID="s113"><Data ss:Type="String">Note:</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">Official calculator from AWS, Azure or Google Cloud must be used AND export from the calculator included in repository is required to achieve more than Weak.</Data></Cell>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s101"><Data ss:Type="String">Comments:</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1845613625088"><Data ss:Type="String">Official calculators for price estimates were not included in GitHub repository, and  no screenshots either.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s112"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s129"><Data ss:Type="String">Backup strategies</Data></Cell>
+    <Cell ss:StyleID="s126"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Good</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Satisfactory</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s112"/>
+    <Cell ss:StyleID="s92" ss:Formula="=HLOOKUP(R[-1]C,R[-1]C[1]:RC[5],2,FALSE)"><Data
+      ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="159.9375" ss:StyleID="s112">
+    <Cell ss:Index="3" ss:StyleID="s96"><Data ss:Type="String">Excellent work. Analysis and discussion on &#10;(a) local backup only, is appropriate;  &#10;(b) cloud services backup services suitably selected, and well justified in the context of the design. &#10;(c) non-cloud backup option is adequate; &#10;(d) Personal approaches clearly explained and justified, including organisation of files and tool to backup; &#10;AND&#10;Backup strategy selection is clear, relevant, specific.&#10;AND&#10;Explanation is well organised, clear, focused and not verbose; refers to specific, relevant tools and techniques, where applicable.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Good attempt, not Excellent but better than Satisfactory:&#10;Some minor unclear or missing parts of answer&#10;&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Satisfactory but not Good: &#10;Recommended approach is missing an important part;&#10;OR&#10;Comparison with local backup is poor;&#10;OR&#10;Personal approach is missing an important part;&#10;OR&#10;Explanation is terse or too verbose, unclear in multiple parts.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Backup approach for company is not well justified or explained clearly&#10;OR&#10;Personal approach is not well justified or explained clearly;&#10;OR&#10;Most of the answer is lacking specifics, and is only a general discussion; generic or typical of AI responses;&#10;OR&#10;Very poor explanation with multiple mistakes.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">None given &#10;OR &#10;not related to the project scenario &#10;OR &#10;many wrong or poorly explained issues.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s112">
+    <Cell ss:Index="2" ss:StyleID="s113"><Data ss:Type="String">Note:</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">The score for this item is based on the Report and the Presentation. Both must be submitted and cover this item to achieve more than Poor. </Data></Cell>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s101"><Data ss:Type="String">Comments:</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1845613625108"><Data ss:Type="String">Most of the answer is lacking specifics, and is only a general discussion.  For cost comparison no evidences were given from the official calculators. Mostly generic and typical of AI responses.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Risk Assessment</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Good</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Satisfactory</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s92"
+     ss:Formula="=HLOOKUP(R[-1]C,R[-1]C[1]:RC[5],2,FALSE)"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="111.9375" ss:StyleID="s112">
+    <Cell ss:Index="3" ss:StyleID="s96"><Data ss:Type="String">Excellent work. Methodology applied correctly using spreadsheet;&#10;AND&#10;All assets and vulnerabilities are relevant;&#10;AND&#10;At least 1 asset from each asset type;&#10;AND &#10;At least 4 different data assets; &#10;AND&#10;At least 8 different information security threats covered.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Methodology applied correctly using spreadsheet; &#10;AND&#10;All but 1 or 2 assets and vulnerabilities are relevant&#10;AND&#10;At least 1 asset from each asset type;&#10;AND &#10;At least 4 different data assets; &#10;AND&#10;At least 8 different information security threats covered.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Methodology applied correctly using spreadsheet; &#10;AND&#10;Some assets or vulnerabilities are not relevant&#10;OR &#10;Not quite meeting one of the other requirement (i.e. each asset type OR data asset OR information security threats)</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Spreadsheet used but incomplete application of methodology&#10;OR &#10;Many assets or vulnerabilities not relevant;&#10;OR&#10;Missing several of the asset types, data assets or information security threats.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">None given &#10;OR &#10;did not use the risk assessment spreadsheet;&#10;OR&#10;Mostly irrelevant assets and vulnerabilities;&#10;OR&#10;Missing many of the asset types, data assets or information security threats.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s112">
+    <Cell ss:Index="2" ss:StyleID="s113"><Data ss:Type="String">Note:</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">Risk assessment template from unit must be used, with completed spreadsheet submitted to achieve more than Poor</Data></Cell>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s101"><Data ss:Type="String">Comments:</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1845613627920"><Data ss:Type="String">Some vulnerabilities listed are not for the identified assets, for example, 'photos' as asset and 'Someone branks into house and steals server PC with all photos' as vulnerability. In TVA matrix many missing entries; only 3  vulnerabilities considered out of the 12.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Security controls</Data></Cell>
+    <Cell ss:StyleID="s126"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Good</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Satisfactory</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s92"
+     ss:Formula="=HLOOKUP(R[-1]C,R[-1]C[1]:RC[5],2,FALSE)"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="156.9375" ss:StyleID="s130">
+    <Cell ss:Index="2" ss:StyleID="s124"/>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">Excellent work. Appropriate and complete data asset selected;&#10;AND&#10;Detailed, correct and complete explanation of how all security controls reduce the risk for the asset;&#10;AND&#10;Details of how all security controls can be used in the project scenario (e.g. refers to relevant devices, data and users, recommends specific technologies or approaches, as opposed to listing several approaches);&#10;AND&#10;Disadvantages from perspective of users are clear and relevant;&#10;AND&#10;Clear and focussed explanation. Not terse nor verbose. Suitable paragraphs used.</Data></Cell>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">Good attempt but not Excellent, with minor mistakes or unclear answers in:&#10;One of the security controls&#10;OR&#10;One of the disadvantages&#10;OR&#10;Poor presentation, e.g. weak use of paragraphs.</Data></Cell>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">Satisfactory but not Good, with several mistakes or unclear answers in:&#10;One or two of the security controls&#10;OR&#10;One of the disadvantages.</Data></Cell>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">Security controls for appropriate data asset explained with some minor issues, but disadvantages not given;&#10;OR&#10;Multiple mistakes in application of security controls (disadvantages are ok);&#10;OR&#10;Mostly unclear, verbose or unfocused explanations, not referring to specific parts of project scenario.</Data></Cell>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">Data asset not selected;&#10;OR&#10;Mostly wrong use of security controls&#10;OR&#10;Mostly irrelevant or generic answers with no connection to project scenario.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s130">
+    <Cell ss:Index="2" ss:StyleID="s127"><Data ss:Type="String">Note:</Data></Cell>
+    <Cell ss:StyleID="s132"><Data ss:Type="String">The score for this item is based on the Report and the Presentation. Both must be submitted and cover this item to achieve more than Poor. </Data></Cell>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s101"><Data ss:Type="String">Comments:</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1845613627940"><Data ss:Type="String">Some are generic details. Any disadvantages of introducing the controls from the perspective of the users were not addressed.  </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s129"><Data ss:Type="String">Ethics: Data collection/use</Data></Cell>
+    <Cell ss:StyleID="s126"><Data ss:Type="String">Poor</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Good</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s92"
+     ss:Formula="=HLOOKUP(R[-1]C,R[-1]C[1]:RC[4],2,FALSE)"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="123" ss:StyleID="s112">
+    <Cell ss:Index="3" ss:StyleID="s96"><Data ss:Type="String">Excellent analysis and discussion on data collection/use are clear, relevant, specific, complete;&#10;WITH &#10;relevant issues identified in data type &amp; quantity collected, processing, access, use, distribution;&#10;AND&#10;Explanation is well organised, clear, focused and not terse nor verbose; references given where required. Suitable paragraphs used.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Good attempt but not excellent.&#10;Similar to features in &quot;Excellent&quot; with all or most issues identified; &#10;BUT&#10;terse or not adequately elaborated;&#10;OR with &#10;Some minor unclear or incomplete/missing parts of answer;&#10;OR &#10;Weak use of paragraphs.  &#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Lacking substantial quality analysis and identification of relevant issues,&#10;OR&#10;Not well justified or explained clearly;&#10;OR&#10;Very poor explanation with multiple mistakes; &#10;OR &#10;Single /poor use of paragraphs.  &#10;OR&#10;Reference not given, where required.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">None given &#10;OR &#10;not related to the project scenario; &#10;OR &#10;many wrong or poorly explained issues or most of the answer is lacking specifics; &#10;OR&#10;generic or only a general discussion;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s112">
+    <Cell ss:Index="2" ss:StyleID="s113"><Data ss:Type="String">Note:</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">Generic answers, but not limited to typical of IA generated responses, cannot achieve more than Poor.</Data></Cell>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s101"><Data ss:Type="String">Comments:</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1845613627960"><Data ss:Type="String">General discussion, most of the answer is lacking specifics, not related to the project scenario. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Ethics: Security cameras</Data></Cell>
+    <Cell ss:StyleID="s126"><Data ss:Type="String">Poor</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Good</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s92"
+     ss:Formula="=HLOOKUP(R[-1]C,R[-1]C[1]:RC[5],2,FALSE)"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="123.5625" ss:StyleID="s112">
+    <Cell ss:Index="3" ss:StyleID="s96"><Data ss:Type="String">Excellent analysis and discussion on security camera issues are clear, relevant, specific, complete;&#10;WITH &#10;relevant issues identified for security cameras, viz. the surveillance locations, retention duration in archive, access, use, distribution;&#10;AND&#10;Explanation is well organised, clear, focused and not terse nor verbose; references given where required. Suitable paragraphs used.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Good attempt but not excellent.&#10;Similar to features in &quot;Excellent&quot; with all or most issues identified; &#10;BUT&#10;terse or not adequately elaborated;&#10;OR with &#10;Some minor unclear or incomplete/missing parts of answer;&#10;OR &#10;Weak use of paragraphs.  &#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Lacking substantial quality analysis and identification of relevant issues,&#10;OR&#10;Not well justified or explained clearly;&#10;OR&#10;Very poor explanation with multiple mistakes; &#10;OR &#10;Single /poor use of paragraphs.  &#10;OR&#10;Reference not given, where required.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">None given &#10;OR &#10;not related to the project scenario; &#10;OR &#10;many wrong or poorly explained issues or most of the answer is lacking specifics; &#10;OR&#10;generic or only a general discussion;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s112">
+    <Cell ss:Index="2" ss:StyleID="s113"><Data ss:Type="String">Note:</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">Generic answers, but not limited to typical of IA generated responses, cannot achieve more than Poor.</Data></Cell>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s101"><Data ss:Type="String">Comments:</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1845613627980"><Data ss:Type="String">General discussion, most of the answer is lacking specifics, not related to the project scenario. No discussion on relevant local or laws/regulations governing using security cameras.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Project reflection</Data></Cell>
+    <Cell ss:StyleID="s126"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Good</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s92"
+     ss:Formula="=HLOOKUP(R[-1]C,R[-1]C[1]:RC[4],2,FALSE)"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="96" ss:StyleID="s130">
+    <Cell ss:Index="2" ss:StyleID="s124"/>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">Appropriate and demonstrates genuine reflection and identified practical/useful techniques for the future. Report includes a statement of contributions. &#10;Focused, clear, well organised and not terse nor verbose. Suitable paragraphs used.</Data></Cell>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">Good attempt, not Excellent but better than Weak.  &#10;Mostly appropriate, demonstrates genuine reflection and identified some practical/useful techniques for the future. Report includes a statement of contributions. Generally focused and clear; OR  Single / weak use of paragraphs. </Data></Cell>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">Generally appropriate, limited reflection and limited identification of practical/useful techniques for the future. Report includes a statement of contributions. Lacking focus, organisational clarity. Terse or verbose.</Data></Cell>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">None given OR not related or appropriate to demonstrate genuine reflection and did not identify practical/useful techniques for the future. Did not includes a statement of contributions; &#10;OR&#10;generic discussion or typical of AI generated response. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s130">
+    <Cell ss:Index="2" ss:StyleID="s127"><Data ss:Type="String">Note:</Data></Cell>
+    <Cell ss:StyleID="s132"><Data ss:Type="String">The score for this item is based on the Report and the Presentation. Both must be submitted and cover this item to achieve more than Poor. </Data></Cell>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s101"><Data ss:Type="String">Comments:</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1845613628000"><Data ss:Type="String">Limited reflection and limited identification of individual tasks done by members. No clear and genuine discussion on practical/useful techniques for the future.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Project professionalism</Data></Cell>
+    <Cell ss:StyleID="s126"><Data ss:Type="String">Satisfactory</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Excellent</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Good</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Satisfactory</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Weak</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Poor</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s92"
+     ss:Formula="=HLOOKUP(R[-1]C,R[-1]C[1]:RC[5],2,FALSE)"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="144" ss:StyleID="s130">
+    <Cell ss:StyleID="s112"/>
+    <Cell ss:StyleID="s124"/>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">Regular use of Git commits by all contributing members during project;&#10;AND&#10;Template followed for report (e.g. .md files used)&#10;AND&#10;Professional written report, including good use of section headings, appropriate use of paragraphing and diagrams; focused (not terse nor verbose); clear writing;&#10;AND&#10;Recorded presentation is clear and meets requirements (e.g. all students speak, duration appropriate)</Data></Cell>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">Good attempt but not excellent: &#10;Regular use of Git commits by all contributing members during project;&#10;AND&#10;Template followed for report (e.g. .md files used)&#10;AND&#10;(Some minor issues with written report e.g. minor formatting or presentation issues&#10;OR&#10;Some minor issues with recorded presentation e.g. minor issues with audio or quality.)</Data></Cell>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">Similar to good, but a few more issues with the written report, e.g. multiple formatting or presentation problems.</Data></Cell>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">Both members contributed to GitHub, but some weeks had no commits or less frequent than expected earlier in project&#10;OR&#10;Multiple problems in presentation of the report.</Data></Cell>
+    <Cell ss:StyleID="s131"><Data ss:Type="String">No regular contributions to GitHub (e.g. very sporadic or only contributions in week or two leading up to deadline)&#10;OR&#10;One student made almost all contributions to GitHub;&#10;OR&#10;Template not followed for report (e.g. upload a Word doc to GitHub)&#10;OR&#10;Very poorly presented report&#10;OR&#10;No recorded presentation, or did not meet most requirements of presentation.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.75" ss:StyleID="s130">
+    <Cell ss:Index="2" ss:StyleID="s127"><Data ss:Type="String">Note:</Data></Cell>
+    <Cell ss:StyleID="s132"><Data ss:Type="String">The score for this item is based on the Report and the Presentation. Both must be submitted and cover this item to achieve more than Poor. </Data></Cell>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:Index="2" ss:StyleID="s101"><Data ss:Type="String">Comments:</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1845613628020"><Data ss:Type="String">Presentation: 7.26 mins.; exceeding the time. Presentation needs improvement; not directly addressing the tasks given in the section. The contents in the slides used were not related to the topics presented.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <TopRowVisible>90</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>97</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+     <RangeSelection>R98C3:R98C5</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R45C2</Range>
+   <Type>List</Type>
+   <Value>R45C3:R45C5</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R88C2</Range>
+   <Type>List</Type>
+   <Value>R88C3:R88C6</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R70C2,R94C2</Range>
+   <Type>List</Type>
+   <Value>R70C3:R70C7</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R64C2</Range>
+   <Type>List</Type>
+   <Value>R64C3:R64C7</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R58C2,R82C2,R76C2</Range>
+   <Type>List</Type>
+   <Value>R58C3:R58C7</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R52C2</Range>
+   <Type>List</Type>
+   <Value>R52C3:R52C7</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R39C2</Range>
+   <Type>List</Type>
+   <Value>R39C3:R39C5</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R33C2,R27C2</Range>
+   <Type>List</Type>
+   <Value>R33C3:R33C6</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R22C2</Range>
+   <Type>List</Type>
+   <Value>R22C3:R22C7</Value>
+  </DataValidation>
+ </Worksheet>
+ <Worksheet ss:Name="Weights-T1,2024">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="20" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Index="3" ss:Width="119.25"/>
+   <Row ss:AutoFitHeight="0"/>
+   <Row ss:Index="4" ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s134"><Data ss:Type="String">Project Part 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s135"><Data ss:Type="String">Diagram &amp; Justification</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s135"><Data ss:Type="String">WiFi</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s135"><Data ss:Type="String">Addressing</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s135"><Data ss:Type="String">List of equipment</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s135"><Data ss:Type="String">Project plan</Data></Cell>
+    <Cell ss:StyleID="s136"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s137"><Data ss:Type="String">total Part 1</Data></Cell>
+    <Cell ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row ss:Index="12" ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s134"><Data ss:Type="String">Project Part 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s135"><Data ss:Type="String">*Pricing for cloud services</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s135"><Data ss:Type="String">Backup strategies</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s135"><Data ss:Type="String">Risk assessment</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s135"><Data ss:Type="String">Security controls</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s138"><Data ss:Type="String">*Ethics</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s135"><Data ss:Type="String">Project reflection</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s135"><Data ss:Type="String">*Project professionalism</Data></Cell>
+    <Cell ss:StyleID="s136"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="3" ss:StyleID="s137"><Data ss:Type="String">total Part 2</Data></Cell>
+    <Cell ss:Formula="=SUM(R[-7]C:R[-1]C)"><Data ss:Type="Number">18</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
